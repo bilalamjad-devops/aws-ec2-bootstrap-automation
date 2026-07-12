@@ -1,15 +1,4 @@
-I think this is the right decision.
 
-**Terraform + Ansible** is a complete story by itself:
-
-* **Terraform** solves infrastructure provisioning.
-* **Ansible** solves server configuration.
-
-You don't need GitHub Actions yet. That can become **Part 2** later.
-
-This is a realistic DevOps workflow and demonstrates two core skills that employers expect.
-
-Here is a polished article structure you can build on.
 
 # Automating AWS EC2 Server Provisioning and Configuration with Terraform & Ansible
 
